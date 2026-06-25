@@ -56,6 +56,10 @@ Maintained by [Xiangjie Zhao](https://cadenzhao.github.io), who builds perturbat
 
 ### Spatial Perturbation
 
+- **SPAC-seq** — high-throughput spatial CRISPR screen sequencing; paired with **TARDIS**, a statistical toolkit for spatial perturbation analysis. Zhang et al. (Zeng lab), *Cell* 2026. <https://doi.org/10.1016/j.cell.2026.04.049>
+- **Spatial Perturb-seq** — in vivo single-cell CRISPR readout within intact tissue architecture (Stereo-seq based), demonstrated in mouse brain. Shen et al. (Chew lab), *Nat Commun* 2026. <https://doi.org/10.1038/s41467-026-69677-6>
+- **Perturb-Multimodal (Perturb-MM)** — pooled genetic screens with joint imaging + sequencing readout in intact mammalian tissue. Saunders et al. (Zhuang lab), *Cell* 2025. <https://doi.org/10.1016/j.cell.2025.05.022>
+- **Spatial CRISPR screening + transcriptomics** — simultaneous pooled screening and spatial transcriptomics revealing intra-/intercellular transcriptional circuits. Binan et al. (Farhi lab), *Cell* 2025. <https://doi.org/10.1016/j.cell.2025.02.012>
 - **Perturb-map** — spatially resolved pooled CRISPR screening in tissue. Dhainaut et al., *Cell* 2022.
 - **In situ / imaging-based perturbation readouts** — optical pooled screening (Feldman et al., *Cell* 2019) and successors.
 
