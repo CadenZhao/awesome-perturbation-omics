@@ -6,7 +6,7 @@ Most existing lists in this space are computational/model-centric. This one fore
 
 Maintained by [Xiangjie Zhao](https://cadenzhao.github.io), who builds perturbation-enabled single-cell and spatial multi-omics technologies.
 
-> **Status: actively expanding (v0.2).** A broad first pass weighted toward high-impact (IF > 10) venues — *Cell*, *Nature*, *Science*, *Nat Methods / Biotechnol / Genetics*, *Genome Biology*, *Nat Rev Genet*, etc. Journals and years are sourced from PubMed/CrossRef; **a few first-author attributions and links are still being verified.** Contributions and corrections welcome — see [Contributing](#contributing).
+> **Status: v0.3 (verification pass).** A broad map weighted toward high-impact (IF > 10) venues — *Cell*, *Nature*, *Science*, *Nat Methods / Biotechnol / Genetics*, *Genome Biology*, *Nat Rev Genet*, etc. Journals, years, and authors are checked against CrossRef/PubMed, and entries that couldn't be verified to a published paper were removed. Some entries still give author + journal + year without a DOI. Contributions and corrections welcome — see [Contributing](#contributing).
 
 ## Contents
 
@@ -36,9 +36,7 @@ Maintained by [Xiangjie Zhao](https://cadenzhao.github.io), who builds perturbat
 
 ## Reviews & Perspectives
 
-- **Genome-scale single-cell CRISPR screens** — overview of design, scale, and analysis. Przybyla & Gilbert, *Nat Rev Genet* 2022. <https://doi.org/10.1038/s41576-022-00517-1>
-- **A new era in functional genomics screens** — perspective on pooled CRISPR + single-cell readouts. Przybyla & Gilbert, *Nat Rev Genet* 2022.
-- **Perturbation-based single-cell genomics: assays, scale, and analysis** — survey of the design space.
+- **A new era in functional genomics screens** — perspective on pooled CRISPR + single-cell readouts. Przybyla & Gilbert, *Nat Rev Genet* 2021. <https://doi.org/10.1038/s41576-021-00409-w>
 
 ## Experimental Methods
 
@@ -75,7 +73,7 @@ Maintained by [Xiangjie Zhao](https://cadenzhao.github.io), who builds perturbat
 
 - **In vivo Perturb-Seq (autism risk genes)** — neuronal/glial abnormalities of 35 ASD/ND risk genes in the developing mouse brain. Jin et al., *Science* 2020.
 - **AAV-Perturb-seq** — transcriptional linkage analysis with in vivo AAV-delivered Perturb-seq. Santinha et al., *Nature* 2023.
-- **Massively parallel in vivo Perturb-seq** — AAV + transposon scaling; cell-type-specific networks in cortical development. *Cell* 2024. <https://pubmed.ncbi.nlm.nih.gov/37790302/>
+- **Massively parallel in vivo Perturb-seq** — AAV + transposon scaling; cell-type-specific networks in cortical development. Zheng & Jin, *Cell* 2024. <https://pubmed.ncbi.nlm.nih.gov/37790302/>
 
 ### Spatial Perturbation
 
@@ -89,7 +87,6 @@ Maintained by [Xiangjie Zhao](https://cadenzhao.github.io), who builds perturbat
 
 - **Optical pooled screening (OPS)** — in situ sequencing of guide barcodes linked to imaging phenotypes at single-cell scale. Feldman et al., *Cell* 2019.
 - **High-content imaging-based pooled CRISPR screens** — genome-scale subcellular-localization/morphology screens. Funk et al., *J Cell Biol* 2021.
-- **Perturb-FISH** — MERFISH imaging spatial transcriptomics with in situ guide RNA detection; recovers intra- and intercellular effects.
 
 ## Applications
 
